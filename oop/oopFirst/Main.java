@@ -1,4 +1,4 @@
-package oop.oop_first;
+package oop.oopFirst;
 
 public class Main {
     public static void main(String[] args) {

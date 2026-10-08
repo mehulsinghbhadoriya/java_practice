@@ -1,4 +1,4 @@
-package oop.Static_Keyword;
+package oop.StaticKeyword;
 
 public class Friend {
 

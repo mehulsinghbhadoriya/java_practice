@@ -1,6 +1,6 @@
 // call by value
 
-package oop.callbyval_callbyref;
+package oop.CallbyvalCallbyref;
 
 public class Demo {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // Call by reference -----> There is no call by reference in Java.
-package oop.callbyval_callbyref;
+package oop.CallbyvalCallbyref;
 
 class Demo2 {
 

@@ -1,4 +1,4 @@
-package oop.Super_keyword;
+package oop.SuperKeyword;
 
 public class Demo {
 

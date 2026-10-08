@@ -1,4 +1,4 @@
-package oop.Array_of_objects;
+package oop.Arrayofobjects;
 
 public class Main {
     public static void main(String[] args) {

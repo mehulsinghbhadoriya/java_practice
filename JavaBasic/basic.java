@@ -1,4 +1,4 @@
-package java_basic;
+package JavaBasic;
 
 public class basic {
 

@@ -1,4 +1,4 @@
-package oop.oop_first;
+package oop.oopFirst;
 
 public class Student {
 

@@ -1,4 +1,4 @@
-package oop.Static_Keyword;
+package oop.StaticKeyword;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Main {
         System.out.println(friend1.numofFriends);
         System.out.println(friend2.numofFriends);
         
-        System.out.println(Friend.numofFriends); // Static member should be accessed directly through the clas rather than any object
+        System.out.println(Friend.numofFriends); // Static member should be accessed directly through the class rather than any object
 
         Friend.showFriend();
         

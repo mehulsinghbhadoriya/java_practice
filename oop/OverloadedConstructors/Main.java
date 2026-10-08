@@ -1,4 +1,4 @@
-package oop.overloaded_constructors;
+package oop.OverloadedConstructors;
 
 public class Main {
     public static void main(String[] args) {
